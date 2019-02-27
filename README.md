@@ -1,4 +1,4 @@
-# hashset-java
+# Generic HashSet using Binary Search Tree
 This custom implementation of HashSet uses a Generic Binary Search Tree as an underlying data structure for chaining. It works with any generic Java Collection that implements Comparable interface. Methods implemented:
 
 * public boolean add(E e)
